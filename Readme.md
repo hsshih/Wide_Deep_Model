@@ -4,8 +4,8 @@ A modified version of space-bandits that adds a wide component which takes indiv
 
 ### Usage
 
-This version retains many of the same features as the original space-bandits. For a demonstration of how the wide and deep model can be used, take a look at the [demo.ipynb](https://github.com/fellowship/space-bandits/blob/dev/wide_deep_bandits/demo.ipynb). 
+This version retains many of the same features as the original space-bandits. For a demonstration of how the wide and deep model can be used, take a look at the [demo.ipynb](https://github.com/hsshih/Wide_Deep_Model/blob/main/demo_BLR_TS.ipynb). 
 
 ### Documentation
 
-Please see the [documentation](https://github.com/fellowship/space-bandits/blob/dev/wide_deep_bandits/wide_deep_bandits_documentation.pdf) for more information on the model implementations and parameters. 
+Please see the [documentation](https://github.com/hsshih/Wide_Deep_Model/blob/main/wide_deep_bandits_documentation.pdf) for more information on the model implementations and parameters. 
