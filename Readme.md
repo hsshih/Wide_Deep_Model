@@ -4,7 +4,7 @@ A wide and deep neural network that can be use to learn user preferences. The wi
 
 ### Usage
 
-For a demonstration of how the wide and deep model can be used, take a look at the [demo.ipynb](https://github.com/hsshih/Wide_Deep_Model/blob/main/demo.ipynb). 
+For a demonstration of how the wide and deep model can be used in a contextual bandit problem, take a look at the [demo.ipynb](https://github.com/hsshih/Wide_Deep_Model/blob/main/demo.ipynb). 
 
 ### Documentation
 
